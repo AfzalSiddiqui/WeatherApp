@@ -1,1 +1,2 @@
-Add error handling notes
+Add performance optimization notes
+
