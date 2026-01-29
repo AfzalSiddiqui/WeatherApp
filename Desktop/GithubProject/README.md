@@ -1,2 +1,3 @@
+
 Add performance optimization notes
 
