@@ -1,1 +1,3 @@
-Add input validation notes
+
+Add performance optimization notes
+
