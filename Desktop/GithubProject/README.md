@@ -1,6 +1,1 @@
-
-
-Add basic routing notes
-
-Add performance optimization notes
-
+README update with setup steps
